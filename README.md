@@ -27,3 +27,7 @@ This was a relativey
 https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence
 Build on pythong coding used in previous module
 
+## ***Task 2***
+#  Pengiun Dataset Overview
+
+Give an overview of the famous penguins data set, explaining the types of variables it contains. Suggest the types of variables that should be used to model them in Python, explaining your rationale.
