@@ -5,7 +5,8 @@ This repository contains all of the code and notebooks
 
 ## Table of contents
 * [Weekly tasks](#weekly-tasks)
-  * [Task 1](#Task 1)
+  * [Task 1](#task1)
+  * [Task 2](#task2)
 
 ## Weekly Tasks  
 
