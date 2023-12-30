@@ -17,7 +17,6 @@ The notebook containing all of the work for this project is called `project.ipyn
 
 This repository and all files within it can be access at https://github.com/lgrealish/fundamentals-of-data-analysis.
 
-Both the `tasks.ipynb` and `project.ipynb` notebooks 
 
 ## How to run the code
 
