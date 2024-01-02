@@ -4,12 +4,12 @@
 This repository contains my submission for the Fundamentals Data Analysis Module 2023 module at ATU as part of the Higher Diploma in Computing and Data Analytics.  There are 2 elements to this submission each of which are conatined in a Jupyter notebook.
 
 ### Tasks
-There were 5 tasks set the details of which can be viewed in this repository [tasks](/tasks.pdf.pdf).
+There were 5 tasks set the details of which can be viewed in this repository [tasks](/instructions/tasks.pdf).
 
 The notebook containing all the work for these tasks is called `tasks.ipynb`.  
 
 ### Project
-The project concerns analysis of the Iris Flower dataset, details of the project [instructions](assessment_instructions.pdf.pdf) can be found in this repository.
+The project concerns analysis of the Iris Flower dataset, details of the project [instructions](/instructions/assessment_instructions.pdf) can be found in this repository.
 
 The notebook containing all of the work for this project is called `project.ipynb`.   
 
